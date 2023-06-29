@@ -43,3 +43,8 @@ fruit_spawn = True
 
 # setting default snake direction towards
 # right
+direction = 'RIGHT'
+change_to = direction
+
+# initial score
+score = 0
